@@ -1,1 +1,1 @@
-"# my git repository"
+"# my gir repository"
