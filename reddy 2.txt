@@ -1,2 +1,0 @@
-print("addition")
-print("substraction")
